@@ -1,0 +1,77 @@
+i want music website script look like splayer
+
+https://www.jaguarscript.com/splayer/ui-demo/ (with user admin login)
+
+with some function of volume
+
+link 1:https://www.agriya.com/products/music-sharing-script
+
+link 2:http://volume.demo.agriya.com/product_demo/music/index.html
+
+1:include directory of albums sub directory online flash music player
+
+2: search box for search music files arrange by music album and songs name or artist name
+
+3:my own admin login area to upload albums
+
+4:include mobile phone wap verson to view site on any mobile phone
+
+
+
+
+
+
+
+basically i wants a free gospel music sharing website like https://www.jaguarscript.com/splayer/ui-demo/
+But with a with user admin login
+
+
+i like add some feathures from this website as well https://www.agriya.com/products/music-sharing-script
+some of the Features are :
+1: lay mp3 online.
+2: easy admin panel.
+3: 10 url uploader with tag editor.
+4: simple uploader.
+5: can create unlimited albums,categories.
+6: can give rates (stars) to all songs.
+8: shows album cover & artist photo.
+9: only authorised user can upload music
+10: only login user can create playlist.
+11: function for lyrics (text and image).if user cant write the lyrics they can upload the image.
+12: some albums have more the one artist.user can assign more than one artist to album (add more artist button ).
+13: some songs have more the one artist .user can assign more than one artist to song (add more artist button )
+14: include mobile phone wap verson to view site on any mobile phone
+
+
+i wants to be clear ple use https://www.jaguarscript.com/splayer/ui-demo/ for front end player at the bottom and not to many thing on front page.
+for the backend 
+please use https://www.agriya.com/products/music-sharing-script
+ 
+Features are :
+
+1:easy admin panel.
+2:10 url uploader with tag editor.
+3:simple uploader.
+4:can create unlimited albums,categories.
+5:can give rates (stars) to all songs.
+6:shows album cover &  artist photo.
+7:only authorised user can upload music 
+8:only login user can create playlist. 
+9:function for lyrics (text and image).if user cant write the lyrics they can upload the image. 
+10:some albums have more the one artist.user can assign more than one artist to album (add more artist button ).
+ 12:some songs have  more the one artist .user can assign more than one artist to song (add more artist button )
+13:include mobile phone wap verson to view site on any mobile phone
+And many mores. 
+
+
+sorry i didnt think about other pages..just 2 page about us and contact us .
+if possible i need some space to write about  album and artist 
+
+
+www.geetaurzabooronline.com
+ 
+Do you want me to add contents to here? 
+www.geetaurzabooronline.com
+
+
+www.justhost.com:(loginministries.com, Chi8chi5iychi()85801)
