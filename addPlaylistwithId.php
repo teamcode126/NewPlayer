@@ -1,7 +1,7 @@
 <?php
 session_start(); 
 	
-
+//define the database
 	$user_name=$_SESSION['username'];
     $songname =$_GET['song']; 
     $album =$_GET['album']; 
